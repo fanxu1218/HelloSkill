@@ -1,0 +1,14 @@
+{
+  "id": "codex-calendar",
+  "name": "Codex-Calendar",
+  "description": "用自然语言协调多人日程。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 49,
+  "updatedAt": "2026-08-18"
+}

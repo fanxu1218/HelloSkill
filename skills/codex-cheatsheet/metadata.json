@@ -1,0 +1,14 @@
+{
+  "id": "codex-cheatsheet",
+  "name": "Codex-CheatSheet",
+  "description": "根据技术栈生成一页速查手册。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 96,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-slack2todo",
+  "name": "Codex-Slack2Todo",
+  "description": "把频道消息中的标记同步到任务管理工具。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 54,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-unittest",
+  "name": "Codex-UnitTest",
+  "description": "为指定函数生成高覆盖率单元测试。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 30,
+  "updatedAt": "2026-08-18"
+}

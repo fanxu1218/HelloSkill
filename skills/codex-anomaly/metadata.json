@@ -1,0 +1,14 @@
+{
+  "id": "codex-anomaly",
+  "name": "Codex-Anomaly",
+  "description": "接入数据库，检测异常数据并推送告警。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 8,
+  "updatedAt": "2026-08-18"
+}

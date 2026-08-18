@@ -1,0 +1,14 @@
+{
+  "id": "codex-decision",
+  "name": "Codex-Decision",
+  "description": "根据选项与维度生成决策矩阵。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 83,
+  "updatedAt": "2026-08-18"
+}

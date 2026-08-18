@@ -1,0 +1,14 @@
+{
+  "id": "codex-transcribe",
+  "name": "Codex-Transcribe",
+  "description": "把录音笔文件转成文字会议纪要。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 17,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-explain",
+  "name": "Codex-Explain",
+  "description": "用通俗语言和比喻解释复杂段落。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 97,
+  "updatedAt": "2026-08-18"
+}

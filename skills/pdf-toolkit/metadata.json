@@ -1,0 +1,14 @@
+{
+  "id": "pdf-toolkit",
+  "name": "pdf-toolkit",
+  "description": "读取 PDF、提炼报告与整理长文档。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 4,
+  "updatedAt": "2026-08-18"
+}

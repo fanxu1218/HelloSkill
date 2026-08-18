@@ -1,0 +1,14 @@
+{
+  "id": "topic-research",
+  "name": "topic-research",
+  "description": "寻找选题、热点、人物故事与内容角度。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 8,
+  "updatedAt": "2026-08-18"
+}

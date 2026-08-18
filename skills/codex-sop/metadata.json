@@ -1,0 +1,14 @@
+{
+  "id": "codex-sop",
+  "name": "Codex-SOP",
+  "description": "把操作流程录制内容整理成标准操作手册。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 50,
+  "updatedAt": "2026-08-18"
+}

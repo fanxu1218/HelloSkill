@@ -1,0 +1,14 @@
+{
+  "id": "codex-codereview",
+  "name": "Codex-CodeReview",
+  "description": "审查 Pull Request 并给出改进建议。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 31,
+  "updatedAt": "2026-08-18"
+}

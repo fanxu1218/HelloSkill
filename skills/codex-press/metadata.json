@@ -1,0 +1,14 @@
+{
+  "id": "codex-press",
+  "name": "Codex-Press",
+  "description": "根据事件描述生成新闻稿模板。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 72,
+  "updatedAt": "2026-08-18"
+}

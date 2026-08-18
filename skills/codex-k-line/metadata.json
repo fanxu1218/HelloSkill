@@ -1,0 +1,14 @@
+{
+  "id": "codex-k-line",
+  "name": "Codex-K线",
+  "description": "绘制技术分析图表并标注买卖点。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 65,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-readlater",
+  "name": "Codex-ReadLater",
+  "description": "把收藏文章整理成精要版并定时推送。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 81,
+  "updatedAt": "2026-08-18"
+}

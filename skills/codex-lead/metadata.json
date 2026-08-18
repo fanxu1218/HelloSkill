@@ -1,0 +1,14 @@
+{
+  "id": "codex-lead",
+  "name": "Codex-Lead",
+  "description": "接入 CRM，为新线索生成个性化跟进话术。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 67,
+  "updatedAt": "2026-08-18"
+}

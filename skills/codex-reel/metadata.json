@@ -1,0 +1,14 @@
+{
+  "id": "codex-reel",
+  "name": "Codex-Reel",
+  "description": "从产品链接生成 15 秒带货短视频。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 23,
+  "updatedAt": "2026-08-18"
+}

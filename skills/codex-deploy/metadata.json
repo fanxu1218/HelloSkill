@@ -1,0 +1,14 @@
+{
+  "id": "codex-deploy",
+  "name": "Codex-Deploy",
+  "description": "连接 Git 仓库，构建、测试并部署到服务器。",
+  "category": "devops",
+  "categoryName": "系统运维",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9629.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 90,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "automation-assistant",
+  "name": "automation-assistant",
+  "description": "设置定时提醒、追踪与复盘任务。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 10,
+  "updatedAt": "2026-08-18"
+}

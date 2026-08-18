@@ -1,0 +1,14 @@
+{
+  "id": "codex-mailmerge",
+  "name": "Codex-MailMerge",
+  "description": "根据名单批量生成个性化邮件。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 47,
+  "updatedAt": "2026-08-18"
+}

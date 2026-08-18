@@ -1,0 +1,14 @@
+{
+  "id": "codex-sketch",
+  "name": "Codex-Sketch",
+  "description": "把手绘草图照片转成高保真 UI 设计稿。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 37,
+  "updatedAt": "2026-08-18"
+}

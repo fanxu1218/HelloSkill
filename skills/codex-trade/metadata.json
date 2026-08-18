@@ -1,0 +1,14 @@
+{
+  "id": "codex-trade",
+  "name": "Codex-Trade",
+  "description": "按条件监控行情并执行量化交易策略。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 59,
+  "updatedAt": "2026-08-18"
+}

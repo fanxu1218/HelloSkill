@@ -1,0 +1,14 @@
+{
+  "id": "codex-forecast",
+  "name": "Codex-Forecast",
+  "description": "上传历史销量数据，生成销售预测模型。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 9,
+  "updatedAt": "2026-08-18"
+}

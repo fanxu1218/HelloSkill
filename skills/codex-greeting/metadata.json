@@ -1,0 +1,14 @@
+{
+  "id": "codex-greeting",
+  "name": "Codex-Greeting",
+  "description": "根据联系人列表批量生成个性化节日祝福。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 75,
+  "updatedAt": "2026-08-18"
+}

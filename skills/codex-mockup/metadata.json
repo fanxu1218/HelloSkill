@@ -1,0 +1,14 @@
+{
+  "id": "codex-mockup",
+  "name": "Codex-Mockup",
+  "description": "根据产品尺寸生成 3D 渲染效果图。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 39,
+  "updatedAt": "2026-08-18"
+}

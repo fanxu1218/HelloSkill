@@ -1,0 +1,14 @@
+{
+  "id": "codex-crawl",
+  "name": "Codex-Crawl",
+  "description": "输入网址，自动爬取结构化数据并导出 CSV。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 2,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-icons",
+  "name": "Codex-Icons",
+  "description": "按场景生成一套风格统一的图标集。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 43,
+  "updatedAt": "2026-08-18"
+}

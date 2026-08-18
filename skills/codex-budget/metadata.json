@@ -1,0 +1,14 @@
+{
+  "id": "codex-budget",
+  "name": "Codex-Budget",
+  "description": "分类银行流水并生成月度预算报告。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 64,
+  "updatedAt": "2026-08-18"
+}

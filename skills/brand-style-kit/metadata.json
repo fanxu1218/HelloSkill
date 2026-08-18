@@ -1,0 +1,14 @@
+{
+  "id": "brand-style-kit",
+  "name": "brand-style-kit",
+  "description": "统一账号定位、封面、配色与模板。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 5,
+  "updatedAt": "2026-08-18"
+}

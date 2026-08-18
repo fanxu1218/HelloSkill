@@ -1,0 +1,14 @@
+{
+  "id": "codex-backup",
+  "name": "Codex-Backup",
+  "description": "制定增量备份策略并加密上传云端。",
+  "category": "devops",
+  "categoryName": "系统运维",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9629.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 85,
+  "updatedAt": "2026-08-18"
+}

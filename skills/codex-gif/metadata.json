@@ -1,0 +1,14 @@
+{
+  "id": "codex-gif",
+  "name": "Codex-GIF",
+  "description": "输入主题，自动生成表情包动图。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 19,
+  "updatedAt": "2026-08-18"
+}

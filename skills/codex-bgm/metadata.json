@@ -1,0 +1,14 @@
+{
+  "id": "codex-bgm",
+  "name": "Codex-BGM",
+  "description": "根据视频情绪匹配背景音乐并调整混音。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 15,
+  "updatedAt": "2026-08-18"
+}

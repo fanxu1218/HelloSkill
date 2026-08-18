@@ -1,0 +1,14 @@
+{
+  "id": "codex-debug",
+  "name": "Codex-Debug",
+  "description": "分析报错日志，定位根因并给出修复方案。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 29,
+  "updatedAt": "2026-08-18"
+}

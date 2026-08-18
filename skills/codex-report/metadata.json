@@ -1,0 +1,14 @@
+{
+  "id": "codex-report",
+  "name": "Codex-Report",
+  "description": "连接数据源，定期生成周报草稿。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 58,
+  "updatedAt": "2026-08-18"
+}

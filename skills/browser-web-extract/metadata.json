@@ -1,0 +1,14 @@
+{
+  "id": "browser-web-extract",
+  "name": "browser / web-extract",
+  "description": "打开网页、提炼重点与截图验证。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 3,
+  "updatedAt": "2026-08-18"
+}

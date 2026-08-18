@@ -1,0 +1,14 @@
+{
+  "id": "codex-papersummary",
+  "name": "Codex-PaperSummary",
+  "description": "把论文 PDF 整理成三分钟摘要解读。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 99,
+  "updatedAt": "2026-08-18"
+}

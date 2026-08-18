@@ -1,0 +1,14 @@
+{
+  "id": "imagegen-visual-cards",
+  "name": "imagegen / visual-cards",
+  "description": "生成封面图、信息图与人物卡。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 1,
+  "updatedAt": "2026-08-18"
+}

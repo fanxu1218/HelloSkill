@@ -1,0 +1,14 @@
+{
+  "id": "codex-merge",
+  "name": "Codex-Merge",
+  "description": "拖入多个表格，自动匹配字段、合并并去重。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 4,
+  "updatedAt": "2026-08-18"
+}

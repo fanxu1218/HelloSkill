@@ -1,0 +1,14 @@
+{
+  "id": "codex-habit",
+  "name": "Codex-Habit",
+  "description": "根据目标生成 21 天打卡计划与每日提醒。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 80,
+  "updatedAt": "2026-08-18"
+}

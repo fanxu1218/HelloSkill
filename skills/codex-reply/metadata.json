@@ -1,0 +1,14 @@
+{
+  "id": "codex-reply",
+  "name": "Codex-Reply",
+  "description": "分析消息意图并生成三种回复选项。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 69,
+  "updatedAt": "2026-08-18"
+}

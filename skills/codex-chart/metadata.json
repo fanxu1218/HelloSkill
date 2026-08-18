@@ -1,0 +1,14 @@
+{
+  "id": "codex-chart",
+  "name": "Codex-Chart",
+  "description": "上传 Excel，一键生成交互式数据看板。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 1,
+  "updatedAt": "2026-08-18"
+}

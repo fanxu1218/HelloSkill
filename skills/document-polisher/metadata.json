@@ -1,0 +1,14 @@
+{
+  "id": "document-polisher",
+  "name": "document-polisher",
+  "description": "处理 Word、方案、SOP 与资料包。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 2,
+  "updatedAt": "2026-08-18"
+}

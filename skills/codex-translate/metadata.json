@@ -1,0 +1,14 @@
+{
+  "id": "codex-translate",
+  "name": "Codex-Translate",
+  "description": "翻译文档并保留原始排版。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 55,
+  "updatedAt": "2026-08-18"
+}

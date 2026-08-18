@@ -1,0 +1,14 @@
+{
+  "id": "spreadsheet-analysis",
+  "name": "spreadsheet-analysis",
+  "description": "整理表格、观察趋势与生成图表。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 6,
+  "updatedAt": "2026-08-18"
+}

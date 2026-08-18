@@ -1,0 +1,14 @@
+{
+  "id": "codex-inbox",
+  "name": "Codex-Inbox",
+  "description": "分类、摘要并按优先级整理未读邮件。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 48,
+  "updatedAt": "2026-08-18"
+}

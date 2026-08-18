@@ -1,0 +1,14 @@
+{
+  "id": "codex-sign",
+  "name": "Codex-Sign",
+  "description": "发送合同给指定人员并按顺序催签。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 52,
+  "updatedAt": "2026-08-18"
+}

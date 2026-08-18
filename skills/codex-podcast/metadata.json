@@ -1,0 +1,14 @@
+{
+  "id": "codex-podcast",
+  "name": "Codex-Podcast",
+  "description": "根据 RSS 链接总结播客并生成文字稿。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 24,
+  "updatedAt": "2026-08-18"
+}

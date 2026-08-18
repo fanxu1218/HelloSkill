@@ -1,0 +1,14 @@
+{
+  "id": "codex-course",
+  "name": "Codex-Course",
+  "description": "根据主题生成视频课程大纲与逐课脚本。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 95,
+  "updatedAt": "2026-08-18"
+}

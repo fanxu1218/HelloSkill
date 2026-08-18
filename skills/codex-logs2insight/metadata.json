@@ -1,0 +1,14 @@
+{
+  "id": "codex-logs2insight",
+  "name": "Codex-Logs2Insight",
+  "description": "分析日志文件并生成故障复盘报告。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 35,
+  "updatedAt": "2026-08-18"
+}

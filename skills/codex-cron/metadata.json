@@ -1,0 +1,14 @@
+{
+  "id": "codex-cron",
+  "name": "Codex-Cron",
+  "description": "按自然语言描述生成并部署定时任务。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 34,
+  "updatedAt": "2026-08-18"
+}

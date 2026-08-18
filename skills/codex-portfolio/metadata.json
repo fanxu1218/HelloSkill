@@ -1,0 +1,14 @@
+{
+  "id": "codex-portfolio",
+  "name": "Codex-Portfolio",
+  "description": "计算持仓收益与风险并给出再平衡建议。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 61,
+  "updatedAt": "2026-08-18"
+}

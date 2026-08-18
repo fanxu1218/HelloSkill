@@ -1,0 +1,14 @@
+{
+  "id": "codex-minutes",
+  "name": "Codex-Minutes",
+  "description": "把会议录音整理成结构化纪要并分配待办。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 46,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "data",
+    "name": "数据分析",
+    "accent": "#27d980"
+  },
+  {
+    "id": "content",
+    "name": "内容媒体",
+    "accent": "#a970ff"
+  },
+  {
+    "id": "dev",
+    "name": "开发编程",
+    "accent": "#2f9cff"
+  },
+  {
+    "id": "design",
+    "name": "设计创意",
+    "accent": "#ff8a3d"
+  },
+  {
+    "id": "office",
+    "name": "办公效率",
+    "accent": "#13cfd0"
+  },
+  {
+    "id": "business",
+    "name": "商业金融",
+    "accent": "#ffd84d"
+  },
+  {
+    "id": "social",
+    "name": "沟通社交",
+    "accent": "#ff6b8a"
+  },
+  {
+    "id": "life",
+    "name": "生活个人",
+    "accent": "#7c72ff"
+  },
+  {
+    "id": "devops",
+    "name": "系统运维",
+    "accent": "#7ee787"
+  },
+  {
+    "id": "education",
+    "name": "教育学习",
+    "accent": "#b28cff"
+  }
+]

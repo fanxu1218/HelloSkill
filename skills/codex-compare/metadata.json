@@ -1,0 +1,14 @@
+{
+  "id": "codex-compare",
+  "name": "Codex-Compare",
+  "description": "上传两份 PDF 合同，自动标注差异条款。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 5,
+  "updatedAt": "2026-08-18"
+}

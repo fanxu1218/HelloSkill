@@ -1,0 +1,14 @@
+{
+  "id": "codex-gift",
+  "name": "Codex-Gift",
+  "description": "根据收礼人信息推荐礼物方案。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 82,
+  "updatedAt": "2026-08-18"
+}

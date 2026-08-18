@@ -1,0 +1,14 @@
+{
+  "id": "codex-api",
+  "name": "Codex-API",
+  "description": "根据需求描述生成 RESTful API 与 Swagger 文档。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 27,
+  "updatedAt": "2026-08-18"
+}

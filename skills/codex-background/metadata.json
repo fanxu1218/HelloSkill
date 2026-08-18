@@ -1,0 +1,14 @@
+{
+  "id": "codex-background",
+  "name": "Codex-Background",
+  "description": "自动抠出主体并替换背景。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 41,
+  "updatedAt": "2026-08-18"
+}

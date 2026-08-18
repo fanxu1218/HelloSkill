@@ -1,0 +1,14 @@
+{
+  "id": "codex-hyperframes",
+  "name": "Codex-HyperFrames",
+  "description": "用一句话快速剪辑成片。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 11,
+  "updatedAt": "2026-08-18"
+}

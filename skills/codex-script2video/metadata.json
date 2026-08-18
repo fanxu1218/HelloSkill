@@ -1,0 +1,14 @@
+{
+  "id": "codex-script2video",
+  "name": "Codex-Script2Video",
+  "description": "从文章提炼脚本并生成讲解视频。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 16,
+  "updatedAt": "2026-08-18"
+}

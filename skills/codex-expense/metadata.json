@@ -1,0 +1,14 @@
+{
+  "id": "codex-expense",
+  "name": "Codex-Expense",
+  "description": "识别发票并生成报销单提交审批。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 53,
+  "updatedAt": "2026-08-18"
+}

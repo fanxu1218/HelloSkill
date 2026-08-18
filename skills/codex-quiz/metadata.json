@@ -1,0 +1,14 @@
+{
+  "id": "codex-quiz",
+  "name": "Codex-Quiz",
+  "description": "根据知识点范围生成测试题与答案解析。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 92,
+  "updatedAt": "2026-08-18"
+}

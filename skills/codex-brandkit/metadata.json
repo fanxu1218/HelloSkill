@@ -1,0 +1,14 @@
+{
+  "id": "codex-brandkit",
+  "name": "Codex-BrandKit",
+  "description": "根据品牌名生成 LOGO、配色和字体方案。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 36,
+  "updatedAt": "2026-08-18"
+}

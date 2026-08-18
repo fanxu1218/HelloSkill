@@ -1,0 +1,14 @@
+{
+  "id": "codex-docgen",
+  "name": "Codex-DocGen",
+  "description": "扫描代码仓库，生成 README 与 API 文档。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 32,
+  "updatedAt": "2026-08-18"
+}

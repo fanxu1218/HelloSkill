@@ -1,0 +1,14 @@
+{
+  "id": "codex-trend",
+  "name": "Codex-Trend",
+  "description": "输入关键词，抓取全网趋势并生成趋势报告。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 7,
+  "updatedAt": "2026-08-18"
+}

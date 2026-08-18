@@ -1,0 +1,14 @@
+{
+  "id": "codex-faq",
+  "name": "Codex-FAQ",
+  "description": "根据产品文档生成客服知识库问答。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 66,
+  "updatedAt": "2026-08-18"
+}

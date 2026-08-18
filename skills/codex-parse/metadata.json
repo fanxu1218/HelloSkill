@@ -1,0 +1,14 @@
+{
+  "id": "codex-parse",
+  "name": "Codex-Parse",
+  "description": "从发票或收据图片提取金额、日期与抬头并归档。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 10,
+  "updatedAt": "2026-08-18"
+}

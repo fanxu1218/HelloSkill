@@ -1,0 +1,14 @@
+{
+  "id": "codex-figma2code",
+  "name": "Codex-Figma2Code",
+  "description": "把 Figma 设计转换为前端页面代码。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 28,
+  "updatedAt": "2026-08-18"
+}

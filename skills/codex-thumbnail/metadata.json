@@ -1,0 +1,14 @@
+{
+  "id": "codex-thumbnail",
+  "name": "Codex-Thumbnail",
+  "description": "输入标题，生成多版封面图供挑选。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 13,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-speech",
+  "name": "Codex-Speech",
+  "description": "根据要点生成演讲稿并标注语气。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 70,
+  "updatedAt": "2026-08-18"
+}

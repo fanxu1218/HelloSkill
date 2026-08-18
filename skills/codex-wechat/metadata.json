@@ -1,0 +1,14 @@
+{
+  "id": "codex-wechat",
+  "name": "Codex-WeChat",
+  "description": "从聊天记录总结待办与关键信息。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 73,
+  "updatedAt": "2026-08-18"
+}

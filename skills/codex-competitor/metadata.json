@@ -1,0 +1,14 @@
+{
+  "id": "codex-competitor",
+  "name": "Codex-Competitor",
+  "description": "抓取竞品动态并生成监测周报。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 62,
+  "updatedAt": "2026-08-18"
+}

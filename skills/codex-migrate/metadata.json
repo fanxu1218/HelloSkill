@@ -1,0 +1,14 @@
+{
+  "id": "codex-migrate",
+  "name": "Codex-Migrate",
+  "description": "在源框架与目标框架之间迁移代码库。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 33,
+  "updatedAt": "2026-08-18"
+}

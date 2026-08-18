@@ -1,0 +1,14 @@
+{
+  "id": "codex-monitor",
+  "name": "Codex-Monitor",
+  "description": "部署服务健康监控并在异常时通知。",
+  "category": "devops",
+  "categoryName": "系统运维",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9629.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 84,
+  "updatedAt": "2026-08-18"
+}

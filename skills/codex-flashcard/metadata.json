@@ -1,0 +1,14 @@
+{
+  "id": "codex-flashcard",
+  "name": "Codex-Flashcard",
+  "description": "把笔记转换成间隔记忆卡片包。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 91,
+  "updatedAt": "2026-08-18"
+}

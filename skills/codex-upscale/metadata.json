@@ -1,0 +1,14 @@
+{
+  "id": "codex-upscale",
+  "name": "Codex-Upscale",
+  "description": "将低分辨率图片超分放大至 4K。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 45,
+  "updatedAt": "2026-08-18"
+}

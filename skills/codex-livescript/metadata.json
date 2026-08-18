@@ -1,0 +1,14 @@
+{
+  "id": "codex-livescript",
+  "name": "Codex-LiveScript",
+  "description": "根据实时语音生成直播提词器内容。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 21,
+  "updatedAt": "2026-08-18"
+}

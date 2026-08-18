@@ -1,0 +1,14 @@
+{
+  "id": "codex-voiceclone",
+  "name": "Codex-VoiceClone",
+  "description": "输入文字，生成指定音色的配音播客。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 12,
+  "updatedAt": "2026-08-18"
+}

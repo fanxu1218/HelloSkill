@@ -1,0 +1,14 @@
+{
+  "id": "presentation-builder",
+  "name": "presentation-builder",
+  "description": "把资料变成结构清晰的演示文稿。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "essential",
+  "status": "reference",
+  "sourceImage": "IMG_9631.JPG",
+  "repository": null,
+  "installCommand": null,
+  "order": 7,
+  "updatedAt": "2026-08-18"
+}

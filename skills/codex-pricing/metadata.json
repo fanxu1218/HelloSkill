@@ -1,0 +1,14 @@
+{
+  "id": "codex-pricing",
+  "name": "Codex-Pricing",
+  "description": "根据成本参数计算多版本定价策略。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 68,
+  "updatedAt": "2026-08-18"
+}

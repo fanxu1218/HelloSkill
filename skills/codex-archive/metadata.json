@@ -1,0 +1,14 @@
+{
+  "id": "codex-archive",
+  "name": "Codex-Archive",
+  "description": "按日期整理文件夹并生成索引。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 56,
+  "updatedAt": "2026-08-18"
+}

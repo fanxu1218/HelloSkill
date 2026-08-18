@@ -1,0 +1,14 @@
+{
+  "id": "codex-pitch",
+  "name": "Codex-Pitch",
+  "description": "根据产品信息生成 3 分钟电梯演讲脚本。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 74,
+  "updatedAt": "2026-08-18"
+}

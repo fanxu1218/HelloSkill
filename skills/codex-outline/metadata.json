@@ -1,0 +1,14 @@
+{
+  "id": "codex-outline",
+  "name": "Codex-Outline",
+  "description": "从电子书提取章节大纲与核心观点。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 94,
+  "updatedAt": "2026-08-18"
+}

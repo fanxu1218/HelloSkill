@@ -1,0 +1,14 @@
+{
+  "id": "codex-carousel",
+  "name": "Codex-Carousel",
+  "description": "把文案生成小红书九宫格图文。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 20,
+  "updatedAt": "2026-08-18"
+}

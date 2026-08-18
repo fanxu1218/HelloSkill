@@ -1,0 +1,14 @@
+{
+  "id": "codex-mindmap",
+  "name": "Codex-MindMap",
+  "description": "把长文转换为可交互思维导图。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 93,
+  "updatedAt": "2026-08-18"
+}

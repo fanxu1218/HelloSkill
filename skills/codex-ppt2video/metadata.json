@@ -1,0 +1,14 @@
+{
+  "id": "codex-ppt2video",
+  "name": "Codex-PPT2Video",
+  "description": "为 PPT 配旁白和动画并输出培训视频。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 22,
+  "updatedAt": "2026-08-18"
+}

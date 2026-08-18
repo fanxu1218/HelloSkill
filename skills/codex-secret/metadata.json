@@ -1,0 +1,14 @@
+{
+  "id": "codex-secret",
+  "name": "Codex-Secret",
+  "description": "扫描仓库中的硬编码密钥并迁移为环境变量。",
+  "category": "devops",
+  "categoryName": "系统运维",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9629.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 88,
+  "updatedAt": "2026-08-18"
+}

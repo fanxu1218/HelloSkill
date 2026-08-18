@@ -1,0 +1,14 @@
+{
+  "id": "codex-earnings",
+  "name": "Codex-Earnings",
+  "description": "解析财报并生成一页速览。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 60,
+  "updatedAt": "2026-08-18"
+}

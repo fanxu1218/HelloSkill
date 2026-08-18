@@ -1,0 +1,14 @@
+{
+  "id": "codex-docker",
+  "name": "Codex-Docker",
+  "description": "根据项目生成优化后的 Dockerfile 与 Compose 文件。",
+  "category": "devops",
+  "categoryName": "系统运维",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9629.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 86,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-remind",
+  "name": "Codex-Remind",
+  "description": "用自然语言设置带条件的智能提醒。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 79,
+  "updatedAt": "2026-08-18"
+}

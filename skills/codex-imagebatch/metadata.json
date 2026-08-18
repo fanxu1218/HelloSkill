@@ -1,0 +1,14 @@
+{
+  "id": "codex-imagebatch",
+  "name": "Codex-ImageBatch",
+  "description": "按指定风格批量生成社交媒体配图。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 18,
+  "updatedAt": "2026-08-18"
+}

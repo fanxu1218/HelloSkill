@@ -1,0 +1,14 @@
+{
+  "id": "codex-dm",
+  "name": "Codex-DM",
+  "description": "按规则回复社交媒体私信中的常见问题。",
+  "category": "social",
+  "categoryName": "沟通社交",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 71,
+  "updatedAt": "2026-08-18"
+}

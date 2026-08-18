@@ -1,0 +1,14 @@
+{
+  "id": "codex-studyplan",
+  "name": "Codex-StudyPlan",
+  "description": "根据考试目标与时间生成复习日程。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 100,
+  "updatedAt": "2026-08-18"
+}

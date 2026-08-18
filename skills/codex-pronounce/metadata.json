@@ -1,0 +1,14 @@
+{
+  "id": "codex-pronounce",
+  "name": "Codex-Pronounce",
+  "description": "为单词生成发音口型动画与练习评测。",
+  "category": "education",
+  "categoryName": "教育学习",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9630.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 98,
+  "updatedAt": "2026-08-18"
+}

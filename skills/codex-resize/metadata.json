@@ -1,0 +1,14 @@
+{
+  "id": "codex-resize",
+  "name": "Codex-Resize",
+  "description": "把图片转换成全平台适配尺寸。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 40,
+  "updatedAt": "2026-08-18"
+}

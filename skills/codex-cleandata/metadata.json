@@ -1,0 +1,14 @@
+{
+  "id": "codex-cleandata",
+  "name": "Codex-CleanData",
+  "description": "清洗脏数据表，补全并标准化字段。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 6,
+  "updatedAt": "2026-08-18"
+}

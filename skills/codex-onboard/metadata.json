@@ -1,0 +1,14 @@
+{
+  "id": "codex-onboard",
+  "name": "Codex-Onboard",
+  "description": "根据岗位生成新人入职资料包与培训计划。",
+  "category": "office",
+  "categoryName": "办公效率",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 57,
+  "updatedAt": "2026-08-18"
+}

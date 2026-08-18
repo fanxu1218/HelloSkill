@@ -1,0 +1,14 @@
+{
+  "id": "codex-refactor",
+  "name": "Codex-Refactor",
+  "description": "重构代码为最佳实践写法并附带说明。",
+  "category": "dev",
+  "categoryName": "开发编程",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 26,
+  "updatedAt": "2026-08-18"
+}

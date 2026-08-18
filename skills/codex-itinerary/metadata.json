@@ -1,0 +1,14 @@
+{
+  "id": "codex-itinerary",
+  "name": "Codex-Itinerary",
+  "description": "根据目的地和天数生成详细旅行攻略。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 77,
+  "updatedAt": "2026-08-18"
+}

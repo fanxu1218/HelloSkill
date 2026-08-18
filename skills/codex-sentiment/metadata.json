@@ -1,0 +1,14 @@
+{
+  "id": "codex-sentiment",
+  "name": "Codex-Sentiment",
+  "description": "粘贴评论区链接，生成舆情情感分析报告。",
+  "category": "data",
+  "categoryName": "数据分析",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 3,
+  "updatedAt": "2026-08-18"
+}

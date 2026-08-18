@@ -1,0 +1,14 @@
+{
+  "id": "codex-landingpage",
+  "name": "Codex-LandingPage",
+  "description": "根据产品描述生成落地页并部署上线。",
+  "category": "design",
+  "categoryName": "设计创意",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9626.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 44,
+  "updatedAt": "2026-08-18"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "codex-subtitle",
+  "name": "Codex-Subtitle",
+  "description": "为视频生成中英双语字幕并导出。",
+  "category": "content",
+  "categoryName": "内容媒体",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9625.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 14,
+  "updatedAt": "2026-08-18"
+}

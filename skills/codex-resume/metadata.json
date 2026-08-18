@@ -1,0 +1,14 @@
+{
+  "id": "codex-resume",
+  "name": "Codex-Resume",
+  "description": "根据经历要点排版生成中英双语简历。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 78,
+  "updatedAt": "2026-08-18"
+}

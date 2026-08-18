@@ -1,0 +1,14 @@
+{
+  "id": "codex-mealplan",
+  "name": "Codex-MealPlan",
+  "description": "根据偏好与预算生成一周食谱和购物清单。",
+  "category": "life",
+  "categoryName": "生活个人",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9628.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 76,
+  "updatedAt": "2026-08-18"
+}

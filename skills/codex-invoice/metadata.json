@@ -1,0 +1,14 @@
+{
+  "id": "codex-invoice",
+  "name": "Codex-Invoice",
+  "description": "根据订单信息生成并发送合规电子发票。",
+  "category": "business",
+  "categoryName": "商业金融",
+  "kind": "workflow",
+  "status": "concept",
+  "sourceImage": "IMG_9627.PNG",
+  "repository": null,
+  "installCommand": null,
+  "order": 63,
+  "updatedAt": "2026-08-18"
+}
