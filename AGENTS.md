@@ -10,5 +10,6 @@ When implementing from a selected generated mock, treat that image as the source
 
 - The selected visual target is Product Design ideation option 2: a dark, task-first Skill workflow launcher named SkillDock.
 - Screenshot-derived entries without repository URLs must be labeled as concepts or references; never present invented installation commands as verified.
+- Personal Skills live only under `JustMe/`. Never stage their plaintext, passwords, private-link keys, or local configuration. Only `JustMe/README.md` and encrypted vault assets may be published. The private entrance must not appear in public navigation, public README links, or the public Skill index.
 
 Build app UI in `src/`. Keep `.openai/hosting.json`, `worker/index.js`, `scripts/prepare-sites-build.mjs`, and `tests/sites-worker.test.mjs` intact so the same local prototype can be handed to Sites. Before a Sites handoff, run `npm run build` and `npm run test:sites`; the build must leave `dist/client/index.html`, `dist/server/index.js`, and `dist/.openai/hosting.json`.

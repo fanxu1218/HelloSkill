@@ -2,3 +2,8 @@ node_modules/
 dist/
 .DS_Store
 *.log
+
+# Personal Skill sources and private links must never be published.
+JustMe/**
+!JustMe/README.md
+.sites-runtime/

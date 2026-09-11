@@ -11,6 +11,9 @@ export default defineConfig({
   },
   server: {
     host: "0.0.0.0",
+    fs: {
+      deny: [".env", ".env.*", "*.{crt,pem}", "**/.git/**", "**/JustMe/**"],
+    },
     allowedHosts: ["terminal.local"],
     warmup: {
       clientFiles: ["./src/main.jsx"],
